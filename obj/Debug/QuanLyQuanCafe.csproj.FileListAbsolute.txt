@@ -1,0 +1,13 @@
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAcountProfile.resources
+D:\HocTap\PTPMUD\Project\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
