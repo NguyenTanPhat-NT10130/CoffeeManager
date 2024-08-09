@@ -117,7 +117,7 @@
             this.txbUserName.Name = "txbUserName";
             this.txbUserName.Size = new System.Drawing.Size(238, 22);
             this.txbUserName.TabIndex = 1;
-            this.txbUserName.Text = "k9";
+            this.txbUserName.Text = "PhatNT";
             // 
             // label1
             // 
